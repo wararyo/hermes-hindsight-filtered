@@ -1,0 +1,5 @@
+name: hindsight_filtered
+version: 0.1.0
+description: "Hindsight memory with scheduler-injected turns (heartbeat2 wakes, plugin injections) relabelled so they are not retained as the user's own words. Requires the hindsight plugin."
+requires_env: []
+hooks: []
